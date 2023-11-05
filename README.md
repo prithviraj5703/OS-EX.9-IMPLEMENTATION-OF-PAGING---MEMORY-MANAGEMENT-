@@ -56,6 +56,7 @@ getch();
 }
 ```
 OUTPUT:
+
 ![277157314-bf75c134-b1c1-48dd-a12b-fe135e5704f9](https://github.com/prithviraj5703/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/121418418/b7090b38-26bd-463e-addd-278b45e0d3bd)
 
 RESULT:
